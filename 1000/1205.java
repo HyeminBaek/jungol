@@ -66,7 +66,6 @@ public class Main {
 			}
 		}//i
 		System.out.println(answer);
-
 	}// main
 
 }
